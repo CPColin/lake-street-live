@@ -100,6 +100,21 @@ Let's rock.
 
 ## Side Pony
 
+I won't mince words: This album inspired this project.
+My introduction to LSD was when they were touring _Side Pony_ and played a show in San Luis Obispo.
+I excitedly pre-ordered the album because "So Long" made me want to burst into tears and I wanted to play it on repeat forever.
+
+When my copy arrived, I deflated; the song didn't stir me.
+Similarly, "How Good It Feels" was missing its descending return to coziness that I remembered from the live version; instead, it soars to a finish.
+"Hell Yeah" lost half of its live energy and driving rhythm.
+
+It wasn't until I'd bought copies of _Bad Self Portraits_ and _Free Yourself Up_ that I realized _Side Pony_ was the outlier here.
+I've since speculated that the band chose to self-produce _Free Yourself Up_ because they felt _Side Pony_ had been polished just a little too much.
+
+I don't want to get too down on the album in service of explaining myself.
+The songs are awesome.
+So let's find the best versions of them and remember why we fell in love with Lake Street Dive.
+
 | Song                   | Link | Notes |
 | ----                   | ---- | ----- |
 | Godawful Things        |      |       |
