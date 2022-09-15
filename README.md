@@ -159,9 +159,12 @@ My favorite live versions of every Lake Street Dive song I can find.
 | Song          | Link | Notes |
 | ----          | ---- | ----- |
 | Black Candles |      |       |
+| Love Doctor   |      |       |
 
 ## Unrecorded Covers
 
-| Song       | Link | Notes |
-| ----       | ---- | ----- |
-| Take On Me |      |       |
+| Song              | Artist        | Link | Notes |
+| ----              | ------        | ---- | ----- |
+| Bohemian Rhapsody | Queen         |      |       |
+| Second Hand News  | Fleetwood Mac |      |       |
+| Take On Me        | A-ha          |      |       |
