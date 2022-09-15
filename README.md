@@ -1,6 +1,19 @@
 # Lake Street Live
 
-My favorite live versions of every Lake Street Dive song I can find.
+My favorite live versions of every [Lake Street Dive](https://www.lakestreetdive.com) song I can find.
+
+Like all great bands, LSD is always tinkering.
+Over the years, many people have uploaded videos from LSD shows.
+Some of these videos show early versions of songs, from before the band landed on the style they liked best.
+Some of these videos demonstrate how the band tweaks songs so they work better for the live crowd (and also because McDuck can't play three trumpets at once).
+All of these videos show why this band is special.
+
+I can't entirely quantify what's going to make a video show up here, but I can make a few guesses:
+* Crowd energy is key, but studio performances for things like radio shows will do in a pinch.
+* It's fun when the band tries new things.
+* Having good audio and video quality is important, but not vital.
+
+Let's rock.
 
 ## In This Episode…
 
