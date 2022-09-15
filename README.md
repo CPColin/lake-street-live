@@ -6,33 +6,33 @@ My favorite live versions of every Lake Street Dive song I can find.
 
 | Song                                                          | Link | Notes |
 | ----                                                          | ---- | ----- |
+| Sometimes When I'm Drunk And You're Wearing My Favorite Shirt |      |       |
+| I Can Sleep With My Eyes Open                                 |      |       |
+| The Frustration Song                                          |      |       |
+| Drugs Or God                                                  |      |       |
+| A Cowgirl Lovesong                                            |      |       |
+| Well Lit Room                                                 |      |       |
+| Scones (astepbackwardsbut)                                    |      |       |
+| The Very Special Person Song                                  |      |       |
+| I Make The Wrong Decisions                                    |      |       |
 | Chinatown                                                     |      |       |
 | Just Show Up And Look Pretty                                  |      |       |
-| Re;ply Girl (The Betty Song)                                  |      |       |
-| The Very Special Person Song                                  |      |       |
-| Scones (astepbackwardsbut)                                    |      |       |
-| I Make The Wrong Decisions                                    |      |       |
-| Well Lit Room                                                 |      |       |
-| Cowgirl Lovesong                                              |      |       |
-| Drugs Or God                                                  |      |       |
-| I Can Sleep With My Eyes Open                                 |      |       |
-| Frustration Song                                              |      |       |
-| Sometimes When I'm Drunk And You're Wearing My Favorite Shirt |      |       |
+| Re;ply Girl (the Betty Song)                                  |      |       |
 
 ## Promises, Promises
 
 | Song                      | Link | Notes |
 | ----                      | ---- | ----- |
-| Hell To Pay               |      |       |
 | Be Cool                   |      |       |
 | The Panhandling Song      |      |       |
-| Promises, Promises        |      |       |
-| Dupont                    |      |       |
+| Thinking Of You, And Such |      |       |
 | Love To Food              |      |       |
 | The Paddleball Game       |      |       |
 | As Much As I Do           |      |       |
-| Thinking Of You, And Such |      |       |
+| Hell To Pay               |      |       |
 | Death On Pluto            |      |       |
+| Dupont                    |      |       |
+| Promises, Promises        |      |       |
 
 ## Lake Street Dive
 
