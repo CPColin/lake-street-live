@@ -122,7 +122,7 @@ So let's find the best versions of them and remember why we fell in love with La
 | Call Off Your Dogs     |      |       |
 | Spectacular Failure    |      |       |
 | I Don't Care About You |      |       |
-| So Long                |      |       |
+| So Long | https://www.youtube.com/watch?v=fHAHhz-wm4I#t=10s | There's way better audio out there, but this is the one that makes me cry. The halo lighting on Rachael, the emotion in her face, and the emotion in Bridget's face when the camera pans over to her all adds up. |
 | How Good It Feels      |      |       |
 | Side Pony              |      |       |
 | Hell Yeah              |      |       |
